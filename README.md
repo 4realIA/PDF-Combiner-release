@@ -29,4 +29,5 @@ Nothing to do. PDF Combiner checks for a new version by itself and installs it i
 1. Click **Add files** (or drag PDFs and photos onto the window). Each photo becomes a page.
 2. Drag pages into the order you want: a photo can go between pages of a worksheet. Each page also has buttons to move it, turn it, or delete it. The list on the left moves whole files. **Undo** (⌘Z) puts things back.
 3. Leave **Make all pages Letter size** ticked so every page comes out 8.5 × 11.
+   If the site you're uploading to has a size limit, pick it under **Keep under** (for example 5 MB). Photos are made smaller just enough to fit.
 4. Click **Combine and save**, choose a name, and save. **Show in Finder** takes you to the new file.
