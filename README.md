@@ -1,6 +1,6 @@
 # Installing PDF Combiner on a Mac
 
-PDF Combiner puts PDFs together into one file, in the order you choose. It works on Macs with Apple silicon (M1 or newer).
+PDF Combiner puts PDFs and photos together into one file, in the order you choose. It works on Macs with Apple silicon (M1 or newer).
 
 ## Install (one time)
 
@@ -26,7 +26,7 @@ Nothing to do. PDF Combiner checks for a new version by itself and installs it i
 
 ## Using it
 
-1. Click **Add PDFs** (or drag PDFs onto the window).
-2. Use the arrows to put the files in order, or **×** to take one out. **Undo** (⌘Z) puts things back.
+1. Click **Add files** (or drag PDFs and photos onto the window). Each photo becomes a page.
+2. Drag pages into the order you want: a photo can go between pages of a worksheet. Each page also has buttons to move it, turn it, or delete it. The list on the left moves whole files. **Undo** (⌘Z) puts things back.
 3. Leave **Make all pages Letter size** ticked so every page comes out 8.5 × 11.
 4. Click **Combine and save**, choose a name, and save. **Show in Finder** takes you to the new file.
