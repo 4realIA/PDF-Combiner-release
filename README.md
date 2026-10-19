@@ -9,16 +9,9 @@ PDF Combiner puts PDFs and photos together into one file, in the order you choos
 3. Open the downloaded file. In the window that appears, drag **PDF Combiner** onto the **Applications** folder.
 4. Open **Applications** and double-click **PDF Combiner**.
 
-### The first time only: "Apple could not verify…"
+From version 0.6.1 the app is signed with Andy's Apple Developer ID and checked by Apple, so it opens straight away.
 
-The app isn't registered with Apple, so the Mac asks once to be sure you meant to open it:
-
-1. When the message appears, click **Done** (not "Move to Trash").
-2. Open **System Settings → Privacy & Security**.
-3. Scroll down to the line about **"PDF Combiner" was blocked** and click **Open Anyway**.
-4. Click **Open Anyway** again and type your Mac password.
-
-After that it opens normally, and you can keep it in the Dock (right-click its icon → Options → Keep in Dock).
+**Older copies only (0.6.0 and earlier):** if the Mac says "Apple could not verify…", click **Done**, open **System Settings → Privacy & Security**, click **Open Anyway** next to **"PDF Combiner" was blocked**, then **Open Anyway** again and type your Mac password. After that it opens normally, and you can keep it in the Dock (right-click its icon → Options → Keep in Dock).
 
 ## Updates
 
